@@ -5,7 +5,7 @@
 
 - 👯 Frontend projects: [React eCommerce Website (demo code)](https://github.com/Mengzhe-Madeline-Zhang/FrontEnd-13-USC/tree/dev)
 
-- 🤝 [React Movie App](https://github.com/Mengzhe-Madeline-Zhang/USCTeam1)
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [React Movie App](https://github.com/Mengzhe-Madeline-Zhang/USCTeam1)
 
 - 🌱JavaScript Project:  [React Express Safe Distance App](https://github.com/Mengzhe-Madeline-Zhang/SafeDistanceApp-Service)
 
@@ -17,7 +17,7 @@
 
 - 📝 AI Game Development: [Unity ML-Agents 3D Flight Racing Game](https://www.youtube.com/watch?v=S9FX0-U0wio&t=2s)
 
-- 📄 RPG Game Development: [https://github.com/Mengzhe-Madeline-Zhang/RPGgameUE4](https://github.com/Mengzhe-Madeline-Zhang/RPGgameUE4)
+- 🤝 RPG Game Development: [https://github.com/Mengzhe-Madeline-Zhang/RPGgameUE4](https://github.com/Mengzhe-Madeline-Zhang/RPGgameUE4)
 
 - ⚡ FPS Game Development: **https://github.com/Mengzhe-Madeline-Zhang/FPSgameUE4**
 
